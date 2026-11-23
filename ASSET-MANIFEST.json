@@ -1,0 +1,68 @@
+[
+  {
+    "file": "frontend/assets/vendor/hero-poster.webp",
+    "source": "https://d2ol7oe51mr4n9.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/82e7eb75-c65f-490a-99b5-f3d1cad54200.webp",
+    "bytes": 246286,
+    "sha256": "60f9a7de42c9f48be3325c344930951d58951bb3c3bdec79b6c3438e3ba9490d"
+  },
+  {
+    "file": "frontend/assets/vendor/hero.mp4",
+    "source": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260912_104036_bd6924f6-3c8e-417e-8465-6d03c8c2e9e6.mp4",
+    "bytes": 37777870,
+    "sha256": "3998c3d49cae94d98d5e0d0b7e141badb55465238f33ec2bddbe255108a9d1d1"
+  },
+  {
+    "file": "frontend/assets/vendor/chart.umd.min.js",
+    "source": "https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js",
+    "bytes": 206553,
+    "sha256": "c40877e88de4df7201532014e14fb707f0f07a196a4ec63e070544b80184fb00"
+  },
+  {
+    "file": "frontend/assets/vendor/ChartJS-LICENSE.md",
+    "source": "https://cdn.jsdelivr.net/npm/chart.js@4.4.8/LICENSE.md",
+    "bytes": 1093,
+    "sha256": "41a84aa2caba645f966a18d9c2056b73e6d3a81d80bc0046bc0011a2634d4cce"
+  },
+  {
+    "file": "frontend/assets/vendor/fonts.css",
+    "source": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;800&display=swap",
+    "bytes": 1250,
+    "sha256": "6944a7a8688931c13178a2588be8b3b0ca1f0196e0041a473e7c7bbed6b9008b"
+  },
+  {
+    "file": "frontend/assets/vendor/jakarta-0.ttf",
+    "source": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf",
+    "bytes": 63372,
+    "sha256": "c96871f21917248bceb319a3d52a452bbec760c6ea8f7b9a0448572274f1d5b8"
+  },
+  {
+    "file": "frontend/assets/vendor/jakarta-1.ttf",
+    "source": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf",
+    "bytes": 63336,
+    "sha256": "076831b98043f50f829b6c91db3be4a844641f1c95bccff5c886ed87c661a852"
+  },
+  {
+    "file": "frontend/assets/vendor/jakarta-2.ttf",
+    "source": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf",
+    "bytes": 63404,
+    "sha256": "b4fc14ec283d54236fd302cdb92546f98ae0ff061ca5ee23453a02bdf4628791"
+  },
+  {
+    "file": "frontend/assets/vendor/jakarta-3.ttf",
+    "source": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf",
+    "bytes": 63412,
+    "sha256": "50357df108c5d297ec4ece76aeddf49561f3794f67af077cfc2c711b7a75b439"
+  },
+  {
+    "file": "frontend/assets/vendor/jakarta-4.ttf",
+    "source": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf",
+    "bytes": 63372,
+    "sha256": "d9e0ddb4a15a0054ad84b4ded3b4b9f354a0b7df426e21a1363d6933728da9d5"
+  },
+  {
+    "file": "frontend/assets/vendor/PlusJakartaSans-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/plusjakartasans/OFL.txt",
+    "bytes": 4402,
+    "sha256": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99"
+  }
+]
